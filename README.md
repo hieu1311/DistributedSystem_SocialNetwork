@@ -22,3 +22,7 @@ Các chức năng đang hoàn thiện
 - Phân quyền người sử dụng
 - Đăng nhập/Đăng ký/Đăng xuất
 -
+# 28/4/2021
+Chức năng đã hoàn thiện
+- Đăng ký/ Đăng nhập/ Đăng xuất
+- Phân quyền người dùng
