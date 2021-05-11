@@ -16,6 +16,7 @@ Có các chức năng cơ bản của một mạng xã hội
 - ...v...v...
 
 Công nghệ sử dụng PHP + MySql Server
+
 Kiến trúc : Server side rendering
 # 14/4/2021
 Các chức năng đang hoàn thiện
