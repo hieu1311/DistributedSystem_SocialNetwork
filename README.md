@@ -4,6 +4,11 @@ Trần Đức Lương - 20176098
 Hoàng Tô Hiệu - 20176090
 Nguyễn Trung Kiên - 20176096
 
+Front end - Html,css,js 
+Back End : PHP ( Laverel)
+Hệ quản trị cơ sở dữ liệu: MySQL
+
+
 Mạng xã hội 
 Giới thiệu về mạng xã hội
 Có các chức năng cơ bản của một mạng xã hội
