@@ -26,3 +26,14 @@ Các chức năng đang hoàn thiện
 Chức năng đã hoàn thiện
 - Đăng ký/ Đăng nhập/ Đăng xuất
 - Phân quyền người dùng
+# 30/4/2021
+- Hiển thị bài
+- Kết bạn
+- Tìm kiếm bạn
+# 4/4/2021
+Chức năng hoàn thiện:
+- Hiển thị thông tin người dùng
+- Đăng bài / Like / Comment
+# 4/5/2021
+Chức năng hoàn thiện:
+- Thông báo / Nhắn tin
